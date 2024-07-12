@@ -1,0 +1,12 @@
+[Service]
+Type=simple
+ExecStart=xremap /home/usmon/.config/xremap/config.yml --device /dev/input/event0
+TimeoutSec=0
+StandardOutput=tty
+RemainAfterExit=no
+User=root
+Group=root
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
