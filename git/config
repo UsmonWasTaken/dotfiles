@@ -1,0 +1,13 @@
+[user]
+  name = Usmon Abdurakhmanov
+  email = usmonwastaken@gmail.com
+  signingkey = 5BE194DA58F96EE6
+[commit]
+  gpgsign = true
+[core]
+  autocrlf = input
+	editor = nvim -f
+[init]
+  defaultBranch = main
+[diff]
+  ignorewhitespace = true
