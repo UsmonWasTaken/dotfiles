@@ -1,5 +1,5 @@
 HISTSIZE=5000
-HISTFILE="${XDG_CACHE_HOME}/zsh/history"
+HISTFILE="${XDG_CACHE_HOME}/zhistory"
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
 setopt appendhistory
