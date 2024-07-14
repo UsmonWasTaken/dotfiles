@@ -1,4 +1,4 @@
 modmap:
   - name: Make CapsLock infinitely useful
     remap:
-      CapsLock: Ctrl_L
+      CapsLock: Esc
