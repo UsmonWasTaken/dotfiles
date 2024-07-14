@@ -4,6 +4,7 @@ source "${ZDOTDIR}/core/aliases.zsh"
 source "${ZDOTDIR}/core/history.zsh"
 
 plugin "starship"
+plugin "zoxide"
 plugin "zsh-completions"
 plugin "zsh-syntax-highlighting"
 plugin "zsh-autosuggestions"
