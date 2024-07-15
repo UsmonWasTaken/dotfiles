@@ -5,6 +5,7 @@ source "${ZDOTDIR}/core/history.zsh"
 
 plugin "starship"
 plugin "zoxide"
+plugin "fzf"
 plugin "zsh-completions"
 plugin "zsh-syntax-highlighting"
 plugin "zsh-autosuggestions"
